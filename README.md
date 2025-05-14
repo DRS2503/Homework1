@@ -1,2 +1,2 @@
 # Homework1
-Text file is under main branch
+Text file is under master branch
